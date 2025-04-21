@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sanaakasim
-- 👀 I’m interested in python and R
-- 🌱 I’m currently learning sql and linux
+- 👀 I’m interested UI UX Design
+- 🌱 I’m currently learning Figma
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
